@@ -21,7 +21,7 @@ namespace DEMO_API.Controllers
         {
             List<Employee> emp = new List<Employee>
             {
-                new Employee { Name = "Anjan Kumar Yadav Bandagorla", Designation = "Software Engineer" },
+                new Employee { Name = "ANB", Designation = "Software Engineer" },
                 new Employee { Name = "Anusha Yadav BG", Designation = "UI Developer" },
                 new Employee { Name = "Shreyas Yadav Bandagorla", Designation = "QA Analyst" },
                 new Employee { Name = "Rahul", Designation = "Project Manager" },
